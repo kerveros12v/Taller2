@@ -1,3 +1,5 @@
+package clinica_veterinaria;
+
 public class Consulta {
 	private String fecha;
 	private String motivo;
